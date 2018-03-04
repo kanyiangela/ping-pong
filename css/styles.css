@@ -1,0 +1,36 @@
+header {
+  background-color: cyan;
+  text-align :center;
+  text-transform: capitalize;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+hi{
+  font-size: 100px;
+}
+.side {
+  height: 100%;
+  background-color: coral;
+  padding-bottom: 15%;
+  text-transform: capitalize;
+}
+.side a {
+  font-size: 20px;
+  color: white;
+  text-transform: capitalize;
+}
+.side a:hover {
+  color: blue;
+}
+content {
+  text-align: left;
+}
+h3 {
+  color: cyan;
+}
+.side p {
+  color: white;
+}
+body {
+  background-color: lightgreen
+}
